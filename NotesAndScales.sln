@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesAndScales", "NotesAndScales\NotesAndScales.csproj", "{FD5F967B-DB16-4EAA-A5B6-9ADC70655680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5F967B-DB16-4EAA-A5B6-9ADC70655680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5F967B-DB16-4EAA-A5B6-9ADC70655680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5F967B-DB16-4EAA-A5B6-9ADC70655680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5F967B-DB16-4EAA-A5B6-9ADC70655680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1ADF9E4-AB3F-4D9C-9E88-ECDE2E69EBD3}
+	EndGlobalSection
+EndGlobal
